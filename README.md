@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bguevaram83
+- 👋 Hi, I’m Bettsy
 - 👀 I’m interested in AI, digital marketing, automation, and business growth.
 - 🌱 I’m currently learning advanced AI applications, automation with Make, and improving my English.
 - 💞️ I’m looking to collaborate on AI-driven solutions for small and medium businesses.
